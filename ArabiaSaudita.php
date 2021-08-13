@@ -3,7 +3,7 @@
 /* Capital */
 
 $AG = array(
-    "Saint John" => "Saint John"
+    "Riad" => "Riad"
 );
 
 ?>
