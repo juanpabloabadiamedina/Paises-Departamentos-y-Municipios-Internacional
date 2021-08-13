@@ -1266,7 +1266,7 @@ $Vichada = array(
     "Santa_Rosalia" => "Santa Rosalía"
 );
 
-$COL = array(
+$CO = array(
     "Amazonas" => $Amazonas,
     "Antioquia" => $Antioquia,
     "Arauca" => $Arauca,
